@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # this will be the site.url variable
-url: "https://mhwkb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mentalhealth-kb.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -54,12 +54,12 @@ pagination:
 # Site configuration for the Auto-Pages feature
 # The values here represent the defaults if nothing is set
 autopages:
-  # Site-wide kill switch, disable here and it doesn't run at all 
+  # Site-wide kill switch, disable here and it doesn't run at all
   enabled: true
 
   tags:
     enabled: true
-    layouts: 
+    layouts:
       - 'autopage_tags.html'
     title: ':tag' # :tag is replaced by the tag name
     permalink: '/tag/:tag'
@@ -68,7 +68,7 @@ autopages:
       cased: true
 
   categories:
-    enabled: false 
+    enabled: false
 
   collections:
     enabled: false
