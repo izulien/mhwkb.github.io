@@ -78,10 +78,24 @@ autopages:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
+
+# most .md docs should only be on the jekyll branch, not both. Adding
+# them here prevents them from being added when the site is built
 exclude:
   - Gemfile
   - Gemfile.lock
   - bin
+  - mhgh_group
+  - ACKNOWLEDGEMENTS.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - CONTRIBUTORS.md
+  - DESIGN.md
+  - FAQ.md
+  - ISSUE_TEMPLATE.md
+  - LICENSE
+  - README.md
+  - TESTING.md
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
