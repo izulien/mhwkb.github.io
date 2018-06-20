@@ -1,3 +1,5 @@
 *.patch
 .vscode/settings.json
 _site
+.sass-cache
+.jekyll-metadata
