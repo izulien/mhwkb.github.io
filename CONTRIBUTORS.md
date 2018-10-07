@@ -23,4 +23,4 @@ GitHub's automated list: (former repo) [graphs/contributors](https://github.com/
 | [khipukamayuq](https://github.com/khipukamayuq) |  |
 | [Martijn de Boer](https://github.com/sexybiggetje) |  |
 | [Forrest Stone](https://github.com/SinGarTheGoat/) |  |
-| | |
+| [Daniel Mitre](https://github.com/danielmitre)| HTML |
