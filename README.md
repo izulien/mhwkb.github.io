@@ -79,7 +79,7 @@ in places where suicide prevention is discussed.
 
 ## Contributing to the KB
 * [Contributing](CONTRIBUTING.md)
-* [Testing your CSS and HTML changes](https://github.com/mhwkb/mhwkb.github.io/blob/master/TESTING.md)
+* [Testing your CSS and HTML changes](TESTING.md)
 * [List of Contributors](CONTRIBUTORS.md) (Please add your name if you
 have contributed)
 
