@@ -24,4 +24,4 @@ GitHub's automated list: (former repo) [graphs/contributors](https://github.com/
 | [Martijn de Boer](https://github.com/sexybiggetje) |  |
 | [Forrest Stone](https://github.com/SinGarTheGoat/) |  |
 | [dreamingblackcat](https://github.com/dreamingblackcat/) | HTML, CSS, Jekyll |
-| | |
+| [Daniel Mitre](https://github.com/danielmitre)| HTML |
