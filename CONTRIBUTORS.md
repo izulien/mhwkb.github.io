@@ -25,4 +25,5 @@ GitHub's automated list: (former repo) [graphs/contributors](https://github.com/
 | [Forrest Stone](https://github.com/SinGarTheGoat/) |  |
 | [dreamingblackcat](https://github.com/dreamingblackcat/) | HTML, CSS, Jekyll |
 | [Daniel Mitre](https://github.com/danielmitre)| HTML |
+| [Megan Barton](https://github.com/dashofnutmeg/) | HTML, CSS, KB |
 | [Vanessa Nimmo](https://github.com/VanessaNimmo)| |
