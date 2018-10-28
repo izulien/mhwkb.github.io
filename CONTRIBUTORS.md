@@ -27,3 +27,4 @@ GitHub's automated list: (former repo) [graphs/contributors](https://github.com/
 | [Daniel Mitre](https://github.com/danielmitre)| HTML |
 | [Megan Barton](https://github.com/dashofnutmeg/) | HTML, CSS, KB |
 | [Vanessa Nimmo](https://github.com/VanessaNimmo)| |
+| [Colquhoun King](https://github.com/colquhounking)| |
